@@ -1,0 +1,25 @@
+{
+    "name": "laboiteabouillons-maintenance",
+    "version": "1.0.0",
+    "description": "Simple maintenance page for La boîte à bouillons website",
+    "keywords": [
+        "La boîte à bouillons",
+        "css3",
+        "html5",
+        "maintenance"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/laboiteabouillons/maintenance.git"
+    },
+    "homepage": "https://github.com/laboiteabouillons/maintenance",
+    "author": "Olivier Jullien <https://github.com/ojullien>",
+    "license": "MIT",
+    "devDependencies": {},
+    "browserslist": [
+        "last 4 versions"
+    ],
+	"scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
